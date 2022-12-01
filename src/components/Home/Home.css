@@ -1,0 +1,10 @@
+.name-card-style{
+    padding: 10px 25px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border: 1px solid black;
+}

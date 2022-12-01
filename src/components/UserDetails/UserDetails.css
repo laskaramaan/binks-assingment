@@ -1,0 +1,14 @@
+.details-div{
+    margin-top: 6%;
+    width: 30%;
+    padding: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: aliceblue;
+}
+.img-style{
+    border-radius: 50%;
+}
